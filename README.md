@@ -5,8 +5,8 @@
 <br>
 Preparation Notes for Nvidia Genai LLM Associate Certification 
 
-RAG 
-Attention Mechanism
-Transformers
-Embedding Models
-Vector Embeddings
+- RAG 
+- Attention Mechanism
+- Transformers
+- Embedding Models
+- Vector Embeddings
