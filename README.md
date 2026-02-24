@@ -58,7 +58,7 @@ This study guide contains 11 comprehensive modules covering all exam topics:
 
 ### Core Foundations
 
-#### [Module O1: AI Infrastructure](O1.AI_Infrastructure.md)
+#### [Module O1: AI Infrastructure](01.AI_Infrastructure.md)
 **Topics**: GPU architecture, NVIDIA GPUs (A100, H100, L40S), Grace CPU, DGX systems, memory hierarchy, distributed training, data center design
 
 **Why Important**: Understanding hardware is crucial for:
@@ -75,7 +75,7 @@ This study guide contains 11 comprehensive modules covering all exam topics:
 
 ---
 
-#### [Module O2: AI and ML Fundamentals](O2.AI_ML_Fundamentals.md) ⭐ **CRITICAL**
+#### [Module O2: AI and ML Fundamentals](02.AI_ML_Fundamentals.md) ⭐ **CRITICAL**
 **Topics**: Neural networks, backpropagation, loss functions, activation functions, gradient descent, overfitting, regularization
 
 **Why Important**: Foundation for understanding how LLMs work internally
@@ -89,7 +89,7 @@ This study guide contains 11 comprehensive modules covering all exam topics:
 
 ---
 
-#### [Module O3: Generative AI and LLMs](O3.Generative_AI_and_LLM.md)
+#### [Module O3: Generative AI and LLMs](03.Generative_AI_and_LLM.md)
 **Topics**: What are LLMs, autoregressive generation, GPT/Llama/Claude architectures, sampling strategies, training stages (pre-training, SFT, RLHF), scaling laws
 
 **Why Important**: Core understanding of how generative AI works
@@ -105,7 +105,7 @@ This study guide contains 11 comprehensive modules covering all exam topics:
 
 ### Technical Deep Dives
 
-#### [Module O4: Transformer Architecture](O4.Transformer_Architecture.md)
+#### [Module O4: Transformer Architecture](04.Transformer_Architecture.md)
 **Topics**: Self-attention, multi-head attention, positional encoding, feed-forward networks, encoder-decoder structure
 
 **Why Important**: Transformers power all modern LLMs
@@ -119,7 +119,7 @@ This study guide contains 11 comprehensive modules covering all exam topics:
 
 ---
 
-#### [Module O5: Model Selection and Embeddings](O5.Model_Selection.md)
+#### [Module O5: Model Selection and Embeddings](05.Model_Selection.md)
 **Topics**: LLM families (GPT, Llama, Claude), model sizes, embeddings (Word2Vec, SBERT), vector databases (Pinecone, ChromaDB, Qdrant), semantic search
 
 **Why Important**: Choosing the right model and tools for your application
@@ -134,7 +134,7 @@ This study guide contains 11 comprehensive modules covering all exam topics:
 
 ### Practical Applications
 
-#### [Module O6: Model Customization](O6.Model_Customization.md)
+#### [Module O6: Model Customization](06.Model_Customization.md)
 **Topics**: RAG architecture, chunking strategies, retrieval methods, prompt engineering, chain-of-thought, few-shot prompting
 
 **Why Important**: Customizing models without expensive training
@@ -147,7 +147,7 @@ This study guide contains 11 comprehensive modules covering all exam topics:
 
 ---
 
-#### [Module O7: Model Training and Evaluation](O7.Model_Training.md)
+#### [Module O7: Model Training and Evaluation](07.Model_Training.md)
 **Topics**: Fine-tuning approaches, LoRA, QLoRA, PEFT, data preparation, evaluation metrics (BLEU, ROUGE, perplexity), benchmarks (MMLU, HumanEval)
 
 **Why Important**: Understanding when and how to train/fine-tune models
@@ -162,7 +162,7 @@ This study guide contains 11 comprehensive modules covering all exam topics:
 
 ### NVIDIA Ecosystem (Largest Exam Section!)
 
-#### [Module O8: NVIDIA Ecosystem and Tools](O8.NVIDIA_Ecosystem.md) ⭐ **CRITICAL - 30% of Exam**
+#### [Module O8: NVIDIA Ecosystem and Tools](08.NVIDIA_Ecosystem.md) ⭐ **CRITICAL - 30% of Exam**
 **Topics**: CUDA, cuDNN, TensorRT, Triton Inference Server, NeMo (Framework, Guardrails, Customizer), RAPIDS, AI Enterprise, NGC
 
 **Why Important**: Largest section of the exam - understanding NVIDIA tools is essential
@@ -179,7 +179,7 @@ This study guide contains 11 comprehensive modules covering all exam topics:
 
 ### Responsible AI
 
-#### [Module O9: Ethical AI and Trustworthy AI](O9.Ethical_AI.md) ⭐ **CRITICAL**
+#### [Module O9: Ethical AI and Trustworthy AI](09.Ethical_AI.md) ⭐ **CRITICAL**
 **Topics**: Bias in AI, fairness metrics, hallucinations, NeMo Guardrails, privacy (differential privacy, federated learning), explainability, regulations (GDPR, EU AI Act)
 
 **Why Important**: Safety and ethics are crucial for production AI
@@ -195,7 +195,7 @@ This study guide contains 11 comprehensive modules covering all exam topics:
 
 ### Advanced Topics
 
-#### [Module O10: Additional Topics](O10.Additional_Topics.md) ⭐ **CRITICAL**
+#### [Module O10: Additional Topics](10.Additional_Topics.md) ⭐ **CRITICAL**
 **Topics**: Diffusion models, multimodal AI (CLIP, BLIP, LLaVA), NER, RAD (conversational RAG), Python libraries, computer vision, speech AI, graph neural networks
 
 **Why Important**: Covers emerging trends and breadth of AI applications
